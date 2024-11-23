@@ -1,0 +1,126 @@
+    1  pwd
+    2  cd repositorio
+    3  code exam.c
+    4  make exam 
+    5  ./ exam
+    6  ./exam
+    7  make exam 
+    8  ./exam
+    9  make exam 
+   10  ./exam
+   11  make exam 
+   12  ./exam
+   13  make exam 
+   14  ./exam
+   15  make exam 
+   16  ./exam
+   17  make exam
+   18  make exam
+   19  ./exam
+   20  make exam
+   21  ./exam
+   22  make exam
+   23  ./exam
+   24  pwd
+   25  cd ..
+   26  pwdpwd
+   27  pwd
+   28  mkdir repositorio
+   29  cd repositorio
+   30  code code.c
+   31  make code 
+   32  ./code 
+   33  1
+   34  2
+   35  make code 
+   36  ./code 
+   37  make code 
+   38  ./code 
+   39  make
+   40  make code 
+   41  ./code 
+   42  make code 
+   43  ./code 
+   44  make code 
+   45  ./code 
+   46  make code 
+   47  ./code 
+   48  make code 
+   49  ./code 
+   50  make code 
+   51  ./code 
+   52  make code 
+   53  ./code 
+   54  make code  
+   55  ./code 
+   56  2
+   57  make code 
+   58  ./code 
+   59  make code 
+   60  ./code 
+   61  make code 
+   62  ./code 
+   63  make code 
+   64  ./code 
+   65  make code 
+   66  ./code
+   67  pwd
+   68  pwd
+   69  make 
+   70  make 
+   71  pwc
+   72  pwd
+   73  cd ..
+   74  cd repositorio
+   75  make code 
+   76  ./code 
+   77  git init
+   78  pwd
+   79  cd..
+   80  cd ..
+   81  cd repositorio
+   82  make code 
+   83  ./code 
+   84  pwd
+   85  cd ..
+   86  cd workspaces
+   87  pwd
+   88  cd repositorio
+   89  git status
+   90  cd ..
+   91  cd/
+   92  cd ..
+   93  pwd
+   94  mkdir repositorio
+   95  cd workspace
+   96  ls
+   97  mkdir repositorio
+   98  pwd
+   99  ls
+  100  cd workspaces
+  101  pwd
+  102  cd /workspaces
+  103  cd ..
+  104  mdkdir repo
+  105  cd tmp
+  106  ls
+  107  cd ..
+  108  mkdir repositorio
+  109  cd ..
+  110  pwd
+  111  cd workspaces
+  112  cd repositorio
+  113  ls
+  114  git init
+  115  git status
+  116  git add .
+  117  git commit -m "1er Commit"
+  118  git push
+  119  git status
+  120  a
+  121  git status
+  122  git remote add origin https://github.com/BrianaM12/Examen.git
+  123  git push -u origin main
+  124  git status
+  125  history
+  126  history > comandos.txt
